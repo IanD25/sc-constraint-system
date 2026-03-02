@@ -1,0 +1,377 @@
+{
+  "sample_design": {
+    "layer_1": {
+      "AXL": {
+        "name": "American Axle",
+        "pair": "drivetrain",
+        "envelope": "T",
+        "mode": "P",
+        "layer": "L1"
+      },
+      "DAN": {
+        "name": "Dana Inc",
+        "pair": "drivetrain",
+        "envelope": "T",
+        "mode": "P",
+        "layer": "L1"
+      },
+      "LCII": {
+        "name": "LCI Industries",
+        "pair": "seating",
+        "envelope": "M",
+        "mode": "P",
+        "layer": "L1"
+      },
+      "LEA": {
+        "name": "Lear Corp",
+        "pair": "seating",
+        "envelope": "T",
+        "mode": "P",
+        "layer": "L1"
+      },
+      "THRM": {
+        "name": "Gentherm",
+        "pair": "thermal",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L1"
+      },
+      "NXPI": {
+        "name": "NXP Semiconductors",
+        "pair": "electronics_IP",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L1"
+      },
+      "VC": {
+        "name": "Visteon",
+        "pair": "electronics",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L1"
+      },
+      "SRI": {
+        "name": "Stoneridge",
+        "pair": "electronics",
+        "envelope": "M",
+        "mode": "P",
+        "layer": "L1"
+      },
+      "GNTX": {
+        "name": "Gentex",
+        "pair": "IP_moat",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L1"
+      },
+      "APTV": {
+        "name": "Aptiv",
+        "pair": "IP_moat",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L1"
+      }
+    },
+    "layer_2": {
+      "CPS": {
+        "name": "Cooper-Standard",
+        "subsector": "seating_rubber",
+        "envelope": "T",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "SUP": {
+        "name": "Superior Industries",
+        "subsector": "wheels",
+        "envelope": "T",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "TEN": {
+        "name": "Tenneco",
+        "subsector": "emissions",
+        "envelope": "T",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "GT": {
+        "name": "Goodyear Tire",
+        "subsector": "tires",
+        "envelope": "T",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "NN": {
+        "name": "NN Inc",
+        "subsector": "precision_parts",
+        "envelope": "T",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "GTX": {
+        "name": "Garrett Motion",
+        "subsector": "turbo_emissions",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "DORM": {
+        "name": "Dorman Products",
+        "subsector": "aftermarket",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "SMP": {
+        "name": "Standard Motor Products",
+        "subsector": "aftermarket",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "ITT": {
+        "name": "ITT Inc",
+        "subsector": "connectors",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "MEI": {
+        "name": "Methode Electronics",
+        "subsector": "electronics",
+        "envelope": "M",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "BDC": {
+        "name": "Belden Inc",
+        "subsector": "connectivity",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "ST": {
+        "name": "Sensata Technologies",
+        "subsector": "sensors",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "MPAA": {
+        "name": "Motorcar Parts America",
+        "subsector": "aftermarket",
+        "envelope": "M",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "ARNC": {
+        "name": "Arconic",
+        "subsector": "materials",
+        "envelope": "M",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "PHIN": {
+        "name": "PHINIA Inc",
+        "subsector": "fuel_systems",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "HI": {
+        "name": "Hillenbrand",
+        "subsector": "industrial_equip",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "FOXF": {
+        "name": "Fox Factory",
+        "subsector": "suspension",
+        "envelope": "M",
+        "mode": "E",
+        "layer": "L2"
+      },
+      "LKQ": {
+        "name": "LKQ Corp",
+        "subsector": "aftermarket",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "GPC": {
+        "name": "Genuine Parts Co",
+        "subsector": "distribution",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "SNA": {
+        "name": "Snap-on",
+        "subsector": "tools",
+        "envelope": "M",
+        "mode": "E",
+        "layer": "L2"
+      },
+      "WGO": {
+        "name": "Winnebago",
+        "subsector": "RV_OEM",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "MNRO": {
+        "name": "Monro Inc",
+        "subsector": "aftermarket_svc",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "ALSN": {
+        "name": "Allison Transmission",
+        "subsector": "transmission",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L2"
+      },
+      "LFUS": {
+        "name": "Littelfuse",
+        "subsector": "electronics",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L2"
+      },
+      "ON": {
+        "name": "ON Semiconductor",
+        "subsector": "semiconductors",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L2"
+      },
+      "TEL": {
+        "name": "TE Connectivity",
+        "subsector": "connectors",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L2"
+      },
+      "CE": {
+        "name": "Celanese",
+        "subsector": "chemicals",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "EMN": {
+        "name": "Eastman Chemical",
+        "subsector": "chemicals",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "PPG": {
+        "name": "PPG Industries",
+        "subsector": "coatings",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "HUN": {
+        "name": "Huntsman Corp",
+        "subsector": "chemicals",
+        "envelope": "M",
+        "mode": "P",
+        "layer": "L2"
+      },
+      "RPM": {
+        "name": "RPM International",
+        "subsector": "coatings",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L2"
+      },
+      "TROX": {
+        "name": "Tronox",
+        "subsector": "titanium",
+        "envelope": "M",
+        "mode": "P",
+        "layer": "L2"
+      }
+    },
+    "layer_3": {
+      "CMI": {
+        "name": "Cummins",
+        "subsector": "engines_power",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L3"
+      },
+      "ETN": {
+        "name": "Eaton Corp",
+        "subsector": "electrical_hyd",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L3"
+      },
+      "EMR": {
+        "name": "Emerson Electric",
+        "subsector": "automation",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L3"
+      },
+      "PH": {
+        "name": "Parker Hannifin",
+        "subsector": "motion_control",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L3"
+      },
+      "DOV": {
+        "name": "Dover Corp",
+        "subsector": "diversified",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L3"
+      },
+      "HON": {
+        "name": "Honeywell",
+        "subsector": "diversified",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L3"
+      },
+      "ROK": {
+        "name": "Rockwell Automation",
+        "subsector": "automation",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L3"
+      },
+      "TXT": {
+        "name": "Textron",
+        "subsector": "diversified",
+        "envelope": "M",
+        "mode": "C",
+        "layer": "L3"
+      },
+      "IEX": {
+        "name": "IDEX Corp",
+        "subsector": "pumps_flow",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L3"
+      },
+      "ROP": {
+        "name": "Roper Technologies",
+        "subsector": "diversified_tech",
+        "envelope": "L",
+        "mode": "E",
+        "layer": "L3"
+      }
+    }
+  },
+  "total_tickers": 52,
+  "min_quarters": 15,
+  "pipeline_version": "v3"
+}

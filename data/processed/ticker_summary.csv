@@ -1,0 +1,47 @@
+,Ticker,Name,Layer,Envelope,Mode,Quarters,Avg GM,Latest GM,Rev $M
+0,ALSN,Allison Transmission,L2,L,E,19,47.4%,46.9%,796
+1,APTV,Aptiv,L1,M,C,19,15.9%,19.6%,4907
+2,ARNC,Arconic,L2,M,P,13,12.0%,13.4%,1990
+3,AXL,American Axle,L1,T,P,19,11.0%,11.2%,1381
+4,BDC,Belden Inc,L2,M,C,19,35.2%,37.5%,666
+5,CE,Celanese,L2,M,C,19,25.0%,22.0%,2358
+6,CMI,Cummins,L3,M,C,19,24.2%,24.1%,8447
+7,CPS,Cooper-Standard,L2,T,P,19,6.6%,12.4%,661
+8,DAN,Dana Inc,L1,T,P,19,11.4%,1.5%,1774
+9,DORM,Dorman Products,L2,M,C,19,35.7%,41.5%,534
+10,DOV,Dover Corp,L3,M,C,19,37.4%,38.6%,1930
+11,EMN,Eastman Chemical,L2,M,C,19,22.6%,24.7%,2245
+12,EMR,Emerson Electric,L3,M,C,19,42.0%,53.5%,4175
+13,ETN,Eaton Corp,L3,M,C,19,34.2%,38.9%,6240
+14,FOXF,Fox Factory,L2,M,E,19,32.3%,28.9%,353
+15,GNTX,Gentex,L1,L,E,19,33.5%,32.5%,542
+16,GPC,Genuine Parts Co,L2,M,C,19,35.4%,35.9%,5770
+17,GT,Goodyear Tire,L2,T,P,19,18.3%,19.9%,4947
+18,GTX,Garrett Motion,L2,M,C,19,19.2%,21.6%,844
+19,HI,Hillenbrand,L2,M,C,1,33.2%,33.2%,707
+20,IEX,IDEX Corp,L3,L,E,19,44.2%,42.5%,863
+21,ITT,ITT Inc,L2,M,C,19,32.7%,34.1%,929
+22,LCII,LCI Industries,L1,M,P,19,23.1%,21.1%,803
+23,LEA,Lear Corp,L1,T,P,19,6.6%,6.8%,5715
+24,LFUS,Littelfuse,L2,L,E,19,37.2%,33.4%,530
+25,LKQ,LKQ Corp,L2,M,C,19,40.0%,39.3%,3226
+26,MEI,Methode Electronics,L2,M,P,20,21.3%,17.2%,240
+27,MNRO,Monro Inc,L2,M,C,19,35.2%,34.3%,306
+28,MPAA,Motorcar Parts America,L2,M,P,11,18.2%,24.1%,186
+29,NN,NN Inc,L2,T,P,13,-2759.5%,-31.2%,2
+30,NXPI,NXP Semiconductors,L1,L,E,19,55.1%,53.9%,3111
+31,ON,ON Semiconductor,L2,L,E,19,43.4%,45.2%,1722
+32,PH,Parker Hannifin,L3,M,C,19,33.7%,36.3%,4743
+33,ROK,Rockwell Automation,L3,L,E,19,43.7%,46.7%,1881
+34,ROP,Roper Technologies,L3,L,E,19,70.4%,68.3%,1877
+35,RPM,RPM International,L2,M,C,20,38.9%,38.4%,1477
+36,SMP,Standard Motor Products,L2,M,C,19,28.9%,29.4%,343
+37,SRI,Stoneridge,L1,M,P,19,20.8%,19.5%,218
+38,ST,Sensata Technologies,L2,M,C,19,31.6%,27.1%,908
+39,SUP,Superior Industries,L2,T,P,19,7.6%,9.4%,310
+40,TEL,TE Connectivity,L2,L,E,19,32.5%,35.5%,3836
+41,TEN,Tenneco,L2,T,P,10,12.1%,11.0%,4931
+42,THRM,Gentherm,L1,M,C,19,25.6%,24.4%,353
+43,TROX,Tronox,L2,M,P,19,20.6%,17.3%,676
+44,VC,Visteon,L1,M,C,19,10.7%,14.3%,939
+45,WGO,Winnebago,L2,M,C,20,16.1%,13.4%,620
